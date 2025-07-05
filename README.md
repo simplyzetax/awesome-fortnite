@@ -20,7 +20,7 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 ### Official APIs
 
 - [Epic Games Developer Portal](https://dev.epicgames.com/) - Official Epic Games developer resources and APIs.
-- [Fortnite Endpoint documentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation) - Community maintained docs of Fortnite endpoints
+- [Fortnite Endpoints Documentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation) - Community maintained docs of Fortnite endpoints
 
 ### Third-party APIs
 
@@ -51,11 +51,14 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 
 ### JavaScript/Node.js
 
+- [fnbr.js](https://github.com/fnbrjs/fnbr.js/) - A JavaScript library to interact with the Fortnite client services.
 - [fortnite-api](https://www.npmjs.com/package/fortnite-api) - JavaScript wrapper for Fortnite APIs.
 - [fortnite.js](https://www.npmjs.com/package/fortnite.js) - Node.js library for Fortnite statistics.
 
+
 ### Python
 
+- [rebootpy](https://github.com/xMistt/rebootpy) - A maintained fork of fortnite-python; A Python library for Fortnite Client interactions.
 - [fortnite-python](https://github.com/Terbau/fortnitepy) - Python library for Fortnite client interactions.
 - [fortnite-api-py](https://pypi.org/project/fortnite-api/) - Python wrapper for Fortnite API.
 
@@ -72,22 +75,23 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 
 ## Backends / Lobby Emulators
 
-FortniteBackends are programs that allow you to get into the lobby and equip skins etc
+Fortnite Backends are programs that allow you to get into the lobby and equip skins etc
 
 - [LawinServer](https://github.com/Lawin0129/LawinServer) - One of the original Fortnite backends. Great Learning resource
-- [LawinServerV2](https://github.com/Lawin0129/LawinServer) - An improved version of LawinServer v1
-- [Momentum](https://github.com/Nexus-FN/Momentum) - An improved version of Lawinserver v2
+- [LawinServerV2](https://github.com/Lawin0129/LawinServer) - An improved version of LawinServer V1
+- [Momentum](https://github.com/Nexus-FN/Momentum) - An improved version of LawinServer V2
+- [Reload](https://github.com/Project-Reload/Reload-Backend) - A fork of LawinServer V2
 - [StormFN](https://github.com/StormFNDev/StormFN-Backend) - StormFN Current Backend by notpies and doener
 - [Neonite](https://github.com/NeoniteDev/neonite) - Fortnite lobby emulator with much customization options based on express/electron js
-- [Neonitev2](https://github.com/NeoniteDev/NeoniteV2) An open-source Fortnite lobby emulator, written in JavaScript.
-- [Neonitev3](https://github.com/NeoniteDev/NeoniteV3) Unfinished code of neonitev3
+- [Neonitev2](https://github.com/NeoniteDev/NeoniteV2) - An open-source Fortnite lobby emulator, written in JavaScript.
+- [Neonitev3](https://github.com/NeoniteDev/NeoniteV3) - Unfinished code of neonitev3
 
 ## Gameservers
 
 Gameservers are the piece of your stack that actually get you in-game and allow you to play actual rounds
 
 - [Raider 3.5](https://github.com/kem0x/raider3.5) - A gameserver for Season 3
-- [Project Reboot](https://github.com/Milxnor/Project-Reboot) S3-S19 Fortnite gameserver
+- [Project Reboot](https://github.com/Milxnor/Project-Reboot) - S3-S19 Fortnite gameserver
 - [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) - A universal gameserver supporting S3-S15
 - [Universal walking simulator](https://github.com/Milxnor/Universal-Walking-Simulator) - S1-S19 Fortnite Multiplayer
 - [1.7.2](https://github.com/plooshi/1.7.2) - Gameserver for Fortnite 1.7.2
@@ -96,8 +100,9 @@ Gameservers are the piece of your stack that actually get you in-game and allow 
 
 ## SSL Bypasses / URL redirects
 
-- [Cobalt](https://github.com/Milxnor/Cobalt) Universal SSL Bypass for Fortnite
-- [Starfall](https://github.com/plooshi/Starfall) An open source redirect/SSL bypass for UE 4/5 games using native HTTP (made for Fortnite).
+- [Cobalt](https://github.com/Milxnor/Cobalt) - Universal SSL Bypass for Fortnite
+- [Sinum](https://github.com/projectnovafn/Sinum/) - A multi-platform Redirect/SSL Bypass for Chapter 1/2 builds of Fortnite 
+- [Starfall](https://github.com/plooshi/Starfall) - An open source redirect/SSL bypass for UE 4/5 games using native HTTP (made for Fortnite).
 
 ## Contributing
 
