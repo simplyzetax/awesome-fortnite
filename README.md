@@ -78,7 +78,7 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 Fortnite Backends are programs that allow you to get into the lobby and equip skins etc
 
 - [LawinServer](https://github.com/Lawin0129/LawinServer) - One of the original Fortnite backends. Great Learning resource
-- [LawinServerV2](https://github.com/Lawin0129/LawinServer) - An improved version of LawinServer V1
+- [LawinServerV2](https://github.com/Lawin0129/LawinServerV2) - An improved version of LawinServer V1
 - [Momentum](https://github.com/Nexus-FN/Momentum) - An improved version of LawinServer V2
 - [Reload](https://github.com/Project-Reload/Reload-Backend) - A fork of LawinServer V2
 - [StormFN](https://github.com/StormFNDev/StormFN-Backend) - StormFN Current Backend by notpies and doener
