@@ -43,6 +43,8 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 - [r/FortNiteBR](https://www.reddit.com/r/FortNiteBR/) - Main Fortnite subreddit.
 - [Fortnite Wiki](https://fortnite.fandom.com/) - Comprehensive Fortnite wiki.
 
+- [SkinRotation](https://skinrotation.com/de/) - German Fortnite item shop, skin catalogue and daily shop history.
+
 ### Creative Tools
 
 - [Unreal Engine](https://www.unrealengine.com/) - Game engine used to create Fortnite content.
