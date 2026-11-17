@@ -1,4 +1,4 @@
-# Awesome Fortnite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Fortnite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Fortnite resources, tools, APIs, and community content.
 
@@ -30,6 +30,10 @@ Fortnite is a popular battle royale game developed by Epic Games. This list cont
 - [Fortnite.gg API](https://fortnite.gg/) - Item shop, news, and player statistics.
 
 ## Tools
+
+### Companion Counters
+
+- [TrackChest](https://trackchest.com) - Fast, zero-login companion counter to log opened chests and Pirate Token odds during Chapter 7 Treasure Hunters.
 
 ### Stat Trackers
 
@@ -114,3 +118,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
